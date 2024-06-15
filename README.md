@@ -13,6 +13,10 @@ With three years of professional experience as a software developer, I have spec
 * 🤝  I'm open to collaborating on Frontend applications and Backend applications
 * ⚡  Watch this space for Bitspace. Bitspace is a design tool that generates Mobile Applications for users in matter of seconds, requires no technical ability to use
 
+### This Repository is not for work, its for learning and practice
+Due to organizational preferences, I use a separate GitHub account for work-related projects.
+
+
 ### trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=bigkid-dev)](https://github.com/ryo-ma/github-profile-trophy)
 

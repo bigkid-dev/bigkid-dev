@@ -19,7 +19,7 @@ Due to organizational preferences, I use a separate GitHub account for work-rela
 
 ### trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bigkid-dev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bitspacellc)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Skills
 

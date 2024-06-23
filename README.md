@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egbeyemi Ireoluwa
 =========================================================================================================================================
 
-Software Developer
-------------------
+Software Developer | Open-source collaborator
+---------------------------------------------
 
 With three years of professional experience as a software developer, I have specialized in full-time roles as a React and React Native developer, as well as a Django developer. Additionally, I have extensive experience as a full stack developer, giving me a comprehensive understanding of both the Django and React ecosystems.
 

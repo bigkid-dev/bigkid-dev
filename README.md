@@ -18,7 +18,6 @@ With three years of professional experience as a software developer, I have spec
 ### This Repository is not for work, its for learning and practice
 Due to organizational preferences, I use a separate GitHub account for work-related projects.
 
-
 ### trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bigkid-dev)](https://github.com/ryo-ma/github-profile-trophy)

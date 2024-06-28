@@ -6,7 +6,7 @@ Software Developer | Open-source collaborator
 
 I Love Open Source
 
-With three years of professional experience as a software developer, I have specialized in full-time roles as a React and React Native developer, as well as a Django developer. Additionally, I have extensive experience as a full stack developer, giving me a comprehensive understanding of both the Django and React ecosystems.
+With three years of professional experience as a software developer, I have specialized in full-time roles as a React and React Native developer, as well as a Django developer. Additionally, I have extensive experience as a full stack developer, giving me a comprehensive understanding of both the Django and React ecosystems..
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [egbeyemifisola777@gmail.com](mailto:egbeyemifisola777@gmail.com)

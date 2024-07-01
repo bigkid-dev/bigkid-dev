@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Open-source collaborator
 ---------------------------------------------
 
-I Love Open Source
+I Love working Open Source
 
 With three years of professional experience as a software developer, I have specialized in full-time roles as a React and React Native developer, as well as a Django developer. Additionally, I have extensive experience as a full stack developer, giving me a comprehensive understanding of both the Django and React ecosystems.
 

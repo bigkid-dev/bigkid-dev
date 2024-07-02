@@ -13,7 +13,7 @@ With three years of professional experience as a software developer, I have spec
 * 🚀  I'm currently working on [Subpadi app](http://play.google.com/store/apps/details?id=com.Subpadi.Subpadiapp&hl=en_US&pli=1)
 * 🧠  I'm learning LLMs and Generative AI
 * 🤝  I'm open to collaborating on Frontend applications and Backend applications
-* ⚡  Watch this space for Bitspace. Bitspace is a design tool that generates Mobile Applications for users in matter of seconds, requires no technical ability to use
+* ⚡  Watch this space for Bitspace. Bitspace is a design tool that generates Mobile Applications for users in matter of seconds
 
 ### This Repository is not for work, its for learning and practice
 Due to organizational preferences, I use a separate GitHub account for work-related projects.

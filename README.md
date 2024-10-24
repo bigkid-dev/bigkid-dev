@@ -5,7 +5,7 @@
 I’m a passionate software developer with over three years of professional experience, specializing in React, React Native, and Django. My expertise extends across full-stack development, enabling me to deliver robust, end-to-end solutions. I'm dedicated to building scalable applications, collaborating on open-source projects, and staying ahead of industry trends.
 
 - 🌍 **Location**: Based in Nigeria, working globally
-- 🚀 **Recent Project**: [Subpadi App](https://play.google.com/store/apps/details?id=com.Subpadi.Subpadiapp&hl=en_US&pli=1)
+- 🚀 **Previous Project**: [Subpadi App](https://play.google.com/store/apps/details?id=com.Subpadi.Subpadiapp&hl=en_US&pli=1)
 - 💡 **Learning Focus**: Exploring LLMs and Generative AI
 - 🤝 **Open to Collaborations**: Available for exciting projects in both frontend and backend development
 - ⚡ **Next Big Thing**: Watch out for **Bitspace**, my upcoming project!

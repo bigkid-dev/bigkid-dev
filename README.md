@@ -1,6 +1,6 @@
 # Hi there! I'm Egbeyemi Ireoluwa 👋
 
-### Full-Stack Developer | Open-Source Enthusiast | Tech Evangelist
+### Mobile Application Developer | Open-Source Enthusiast | Tech Evangelist
 
 I’m a passionate software developer with over three years of professional experience, specializing in React, React Native, and Django. My expertise extends across full-stack development, enabling me to deliver robust, end-to-end solutions. I'm dedicated to building scalable applications, collaborating on open-source projects, and staying ahead of industry trends.
 

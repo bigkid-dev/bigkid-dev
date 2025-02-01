@@ -18,7 +18,7 @@ I have a diverse technical toolkit, enabling me to work effectively across vario
 JavaScript, TypeScript, Python, C#, HTML5
 
 **Frontend**:  
-React, Next.js, Tailwind CSS, Bootstrap, JQuery, Material UI
+React, Next.js, Tailwind CSS, Bootstrap, Material UI
 
 **Backend**:  
 Django, Node.js, PostgreSQL, MongoDB

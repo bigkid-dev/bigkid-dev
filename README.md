@@ -20,6 +20,9 @@ JavaScript, TypeScript, Python, C#, HTML5
 **Frontend**:  
 React, Next.js, Tailwind CSS, Bootstrap, Material UI
 
+**Mobile Application**:  
+React
+
 **Backend**:  
 Django, Node.js, PostgreSQL, MongoDB
 

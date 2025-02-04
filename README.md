@@ -12,7 +12,7 @@ I’m a passionate software developer with over three years of professional expe
 
 ### 🚀 Skills & Expertise
 
-I have a diverse technical toolkit, enabling me to work effectively across various platforms:
+I have a diverse technical toolkit, enabling me to work effectively:
 
 **Languages**:  
 JavaScript, TypeScript, Python, C#, HTML5

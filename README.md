@@ -1,7 +1,7 @@
 # Hi there! I'm Egbeyemi Ireoluwa 👋
 
-### Mobile Application Developer | Open-Source Enthusiast 
-I’m a passionate software developer with over three years of professional experience, specializing in React, React Native, and Django. My expertise extends across full-stack development, enabling me to deliver robust, end-to-end solutions. I'm dedicated to building scalable applications, collaborating on open-source projects, and staying ahead of industry trends.
+### Fullstack Developer | Web3  | Open-Source 
+I’m a passionate software developer with over Five years of professional experience, specializing in Next js, React Native,Python Django, Solidity, rust and etherjs. My expertise extends across full-stack development, enabling me to deliver robust, end-to-end solutions. I'm dedicated to building scalable applications, collaborating on open-source projects, and staying ahead of industry trends.
 
 - 🌍 **Location**: Based in Nigeria, working globally
 - 🚀 **Previous Project**: [Subpadi App](https://play.google.com/store/apps/details?id=com.Subpadi.Subpadiapp&hl=en_US&pli=1)
@@ -14,22 +14,25 @@ I’m a passionate software developer with over three years of professional expe
 I have a diverse technical toolkit, enabling me to work effectively:
 
 **Languages**:  
-JavaScript, TypeScript, Python, C#, HTML5
+JavaScript, TypeScript, Python, C++, C#, HTML5
 
 **Frontend**:  
 React, Next.js, Tailwind CSS, Bootstrap, Material UI
 
 **Mobile Application**:  
-React
+React Native
 
 **Backend**:  
 Django, Node.js, PostgreSQL, MongoDB
 
-**DevOps & Tools**:  
-Git, GNU Bash, Firebase, AWS, Google Cloud, Heroku, Docker
+**Web 3**:  
+Ethereum, Ether.js, Web3.js, Smart Contract, Solidity
 
-**Mobile & Other Tech**:  
-React Native, XCode, VS Code, Vite, GraphQL, TensorFlow
+**DevOps & Tools**:  
+Git, GNU Bash, Firebase, vercel ,AWS, Google Cloud, Heroku, Docker
+
+**Other Tech**:  
+openclaw, XCode, VS Code, , GraphQL, 
 
 ---
 
